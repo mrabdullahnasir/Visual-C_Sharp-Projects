@@ -1,0 +1,9 @@
+G:\drive\4th semester\00ad proj\web\Address Book-AFRAZ\Address Book-AFRAZ\bin\Debug\Address Book-AFRAZ.exe.config
+G:\drive\4th semester\00ad proj\web\Address Book-AFRAZ\Address Book-AFRAZ\bin\Debug\Address Book-AFRAZ.exe
+G:\drive\4th semester\00ad proj\web\Address Book-AFRAZ\Address Book-AFRAZ\bin\Debug\Address Book-AFRAZ.pdb
+G:\drive\4th semester\00ad proj\web\Address Book-AFRAZ\Address Book-AFRAZ\obj\Debug\Address Book-AFRAZ.csprojResolveAssemblyReference.cache
+G:\drive\4th semester\00ad proj\web\Address Book-AFRAZ\Address Book-AFRAZ\obj\Debug\Address_Book_AFRAZ.Form1.resources
+G:\drive\4th semester\00ad proj\web\Address Book-AFRAZ\Address Book-AFRAZ\obj\Debug\Address_Book_AFRAZ.Properties.Resources.resources
+G:\drive\4th semester\00ad proj\web\Address Book-AFRAZ\Address Book-AFRAZ\obj\Debug\Address Book-AFRAZ.csproj.GenerateResource.Cache
+G:\drive\4th semester\00ad proj\web\Address Book-AFRAZ\Address Book-AFRAZ\obj\Debug\Address Book-AFRAZ.exe
+G:\drive\4th semester\00ad proj\web\Address Book-AFRAZ\Address Book-AFRAZ\obj\Debug\Address Book-AFRAZ.pdb
