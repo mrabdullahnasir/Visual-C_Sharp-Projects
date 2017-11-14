@@ -1,0 +1,11 @@
+G:\drive\4th semester\00ad proj\web\Encryptor_Decryptor\Encryptor_Decryptor\bin\Debug\Encryptor_Decryptor.exe.config
+G:\drive\4th semester\00ad proj\web\Encryptor_Decryptor\Encryptor_Decryptor\bin\Debug\Encryptor_Decryptor.exe
+G:\drive\4th semester\00ad proj\web\Encryptor_Decryptor\Encryptor_Decryptor\bin\Debug\Encryptor_Decryptor.pdb
+G:\drive\4th semester\00ad proj\web\Encryptor_Decryptor\Encryptor_Decryptor\obj\Debug\Encryptor_Decryptor.csprojResolveAssemblyReference.cache
+G:\drive\4th semester\00ad proj\web\Encryptor_Decryptor\Encryptor_Decryptor\obj\Debug\Encryptor_Decryptor.Properties.Resources.resources
+G:\drive\4th semester\00ad proj\web\Encryptor_Decryptor\Encryptor_Decryptor\obj\Debug\Encryptor_Decryptor.csproj.GenerateResource.Cache
+G:\drive\4th semester\00ad proj\web\Encryptor_Decryptor\Encryptor_Decryptor\obj\Debug\Encryptor_Decryptor.exe
+G:\drive\4th semester\00ad proj\web\Encryptor_Decryptor\Encryptor_Decryptor\obj\Debug\Encryptor_Decryptor.pdb
+G:\drive\4th semester\00ad proj\web\Encryptor_Decryptor\Encryptor_Decryptor\obj\Debug\Encryptor_Decryptor.Encryptor.resources
+G:\drive\4th semester\00ad proj\web\Encryptor_Decryptor\Encryptor_Decryptor\obj\Debug\Encryptor_Decryptor.Start.resources
+G:\drive\4th semester\00ad proj\web\Encryptor_Decryptor\Encryptor_Decryptor\obj\Debug\Encryptor_Decryptor.Decryptor.resources
