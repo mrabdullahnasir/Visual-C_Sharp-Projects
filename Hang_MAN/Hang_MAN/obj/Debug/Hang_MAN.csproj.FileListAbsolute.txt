@@ -1,0 +1,11 @@
+G:\drive\4th semester\00ad proj\web\Hang_MAN\Hang_MAN\obj\Debug\Hang_MAN.csprojResolveAssemblyReference.cache
+G:\drive\4th semester\00ad proj\web\Hang_MAN\Hang_MAN\obj\Debug\Hang_MAN.Form1.resources
+G:\drive\4th semester\00ad proj\web\Hang_MAN\Hang_MAN\obj\Debug\Hang_MAN.Properties.Resources.resources
+G:\drive\4th semester\00ad proj\web\Hang_MAN\Hang_MAN\obj\Debug\Hang_MAN.csproj.GenerateResource.Cache
+G:\drive\4th semester\00ad proj\web\Hang_MAN\Hang_MAN\obj\Debug\Hang_MAN.WON.resources
+G:\drive\4th semester\00ad proj\web\Hang_MAN\Hang_MAN\obj\Debug\Hang_MAN.LOSE.resources
+G:\drive\4th semester\00ad proj\web\Hang_MAN\Hang_MAN\bin\Debug\Hang_MAN- Afraz.exe.config
+G:\drive\4th semester\00ad proj\web\Hang_MAN\Hang_MAN\bin\Debug\Hang_MAN- Afraz.exe
+G:\drive\4th semester\00ad proj\web\Hang_MAN\Hang_MAN\bin\Debug\Hang_MAN- Afraz.pdb
+G:\drive\4th semester\00ad proj\web\Hang_MAN\Hang_MAN\obj\Debug\Hang_MAN- Afraz.exe
+G:\drive\4th semester\00ad proj\web\Hang_MAN\Hang_MAN\obj\Debug\Hang_MAN- Afraz.pdb
