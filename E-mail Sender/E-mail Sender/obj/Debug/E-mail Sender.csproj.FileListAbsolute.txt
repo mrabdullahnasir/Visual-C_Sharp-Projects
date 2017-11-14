@@ -1,0 +1,9 @@
+G:\drive\4th semester\00ad proj\web\E-mail Sender\E-mail Sender\bin\Debug\E-mail Sender.exe.config
+G:\drive\4th semester\00ad proj\web\E-mail Sender\E-mail Sender\bin\Debug\E-mail Sender.exe
+G:\drive\4th semester\00ad proj\web\E-mail Sender\E-mail Sender\bin\Debug\E-mail Sender.pdb
+G:\drive\4th semester\00ad proj\web\E-mail Sender\E-mail Sender\obj\Debug\E-mail Sender.csprojResolveAssemblyReference.cache
+G:\drive\4th semester\00ad proj\web\E-mail Sender\E-mail Sender\obj\Debug\E_mail_Sender.Form1.resources
+G:\drive\4th semester\00ad proj\web\E-mail Sender\E-mail Sender\obj\Debug\E_mail_Sender.Properties.Resources.resources
+G:\drive\4th semester\00ad proj\web\E-mail Sender\E-mail Sender\obj\Debug\E-mail Sender.csproj.GenerateResource.Cache
+G:\drive\4th semester\00ad proj\web\E-mail Sender\E-mail Sender\obj\Debug\E-mail Sender.exe
+G:\drive\4th semester\00ad proj\web\E-mail Sender\E-mail Sender\obj\Debug\E-mail Sender.pdb
