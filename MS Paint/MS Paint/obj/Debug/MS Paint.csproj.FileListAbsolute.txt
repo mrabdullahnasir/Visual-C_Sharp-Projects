@@ -1,0 +1,9 @@
+G:\drive\4th semester\00ad proj\web\MS Paint\MS Paint\bin\Debug\MS Paint.exe.config
+G:\drive\4th semester\00ad proj\web\MS Paint\MS Paint\obj\Debug\MS Paint.csprojResolveAssemblyReference.cache
+G:\drive\4th semester\00ad proj\web\MS Paint\MS Paint\obj\Debug\MS_Paint.Form1.resources
+G:\drive\4th semester\00ad proj\web\MS Paint\MS Paint\obj\Debug\MS_Paint.Properties.Resources.resources
+G:\drive\4th semester\00ad proj\web\MS Paint\MS Paint\obj\Debug\MS Paint.csproj.GenerateResource.Cache
+G:\drive\4th semester\00ad proj\web\MS Paint\MS Paint\bin\Debug\MS Paint.exe
+G:\drive\4th semester\00ad proj\web\MS Paint\MS Paint\bin\Debug\MS Paint.pdb
+G:\drive\4th semester\00ad proj\web\MS Paint\MS Paint\obj\Debug\MS Paint.exe
+G:\drive\4th semester\00ad proj\web\MS Paint\MS Paint\obj\Debug\MS Paint.pdb
