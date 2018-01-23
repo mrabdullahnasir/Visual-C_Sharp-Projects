@@ -1,0 +1,11 @@
+G:\drive\4th semester\00ad proj\web\Cope_Captchas\Cope_Captchas\bin\Debug\Cope_Captchas.exe.config
+G:\Visual Studio Pros\Cope_Captchas\Cope_Captchas\bin\Debug\Cope_Captchas.exe.config
+G:\Visual Studio Pros\Cope_Captchas\Cope_Captchas\bin\Debug\Cope_Captchas.exe
+G:\Visual Studio Pros\Cope_Captchas\Cope_Captchas\bin\Debug\Cope_Captchas.pdb
+G:\Visual Studio Pros\Cope_Captchas\Cope_Captchas\obj\Debug\Cope_Captchas.csprojResolveAssemblyReference.cache
+G:\Visual Studio Pros\Cope_Captchas\Cope_Captchas\obj\Debug\Cope_Captchas.Form1.resources
+G:\Visual Studio Pros\Cope_Captchas\Cope_Captchas\obj\Debug\Cope_Captchas.Properties.Resources.resources
+G:\Visual Studio Pros\Cope_Captchas\Cope_Captchas\obj\Debug\Cope_Captchas.csproj.GenerateResource.Cache
+G:\Visual Studio Pros\Cope_Captchas\Cope_Captchas\obj\Debug\Cope_Captchas.exe
+G:\Visual Studio Pros\Cope_Captchas\Cope_Captchas\obj\Debug\Cope_Captchas.pdb
+G:\Visual Studio Pros\Cope_Captchas\Cope_Captchas\obj\Debug\Cope_Captchas.Test_Captchas.resources
