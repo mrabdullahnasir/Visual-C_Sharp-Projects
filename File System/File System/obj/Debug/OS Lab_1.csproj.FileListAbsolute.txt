@@ -1,0 +1,10 @@
+c:\users\mcs\documents\visual studio 2015\Projects\OS Lab_1\OS Lab_1\bin\Debug\OS Lab_1.exe.config
+c:\users\mcs\documents\visual studio 2015\Projects\OS Lab_1\OS Lab_1\bin\Debug\OS Lab_1.exe
+c:\users\mcs\documents\visual studio 2015\Projects\OS Lab_1\OS Lab_1\bin\Debug\OS Lab_1.pdb
+c:\users\mcs\documents\visual studio 2015\Projects\OS Lab_1\OS Lab_1\obj\Debug\OS Lab_1.csprojResolveAssemblyReference.cache
+c:\users\mcs\documents\visual studio 2015\Projects\OS Lab_1\OS Lab_1\obj\Debug\OS_Lab_1.My_Files.resources
+c:\users\mcs\documents\visual studio 2015\Projects\OS Lab_1\OS Lab_1\obj\Debug\OS_Lab_1.Properties.Resources.resources
+c:\users\mcs\documents\visual studio 2015\Projects\OS Lab_1\OS Lab_1\obj\Debug\OS Lab_1.csproj.GenerateResource.Cache
+c:\users\mcs\documents\visual studio 2015\Projects\OS Lab_1\OS Lab_1\obj\Debug\OS Lab_1.exe
+c:\users\mcs\documents\visual studio 2015\Projects\OS Lab_1\OS Lab_1\obj\Debug\OS Lab_1.pdb
+C:\Users\MCs\documents\visual studio 2015\Projects\OS Lab_1\OS Lab_1\obj\Debug\OS_Lab_1.FileName_frm.resources
